@@ -30,5 +30,5 @@ Click on Reset button clear background color and counting and display the defaul
 
 ### Components
 
-1. MainActivity - Responsible for fetching colors data configuaring xml file
+1. MainActivity - Responsible for fetching colors data configuaring xml file.
 
